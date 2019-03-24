@@ -6,7 +6,7 @@
             "port": 3306,
             "user": "guenterpecht",
             "password": "Einstein1234",
-            "database": "mysql",
+            "database": "ghostdbtest",
             "ssl": true  
         },
     },
