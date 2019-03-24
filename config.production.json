@@ -2,11 +2,11 @@
     "database": {
         "client": "mysql",
         "connection": {
-            "host": "23.97.185.214",
-            "port": 22,
+            "host": "savitrighostdb.mysql.database.azure.com",
+            "port": 3306,
             "user": "guenterpecht",
             "password": "Einstein1234",
-            "database": "ghostdb1",
+            "database": "mysql",
             "ssl": true  
         },
     },
