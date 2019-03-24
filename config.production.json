@@ -7,7 +7,7 @@
             "user": "guenterpecht",
             "password": "Einstein1234",
             "database": "ghostdbtest",
-            "ssl": true  
+            "ssl": false
         },
     },
     "paths": {
