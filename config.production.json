@@ -4,8 +4,6 @@
         "connection": {
             "host": "savitrighostdb.mysql.database.azure.com",
             "port": 3306,
-            "user": "guenterpecht@savitrighostdb",
-            "password": "Einstein1234",
             "database": "ghostdbtest",
             "ssl": false
         },
